@@ -1,7 +1,0 @@
-:root{
-    --main-color:#7E57C2;
-}
-#btnn,#btnn1,#btnn2{
-    background-color:var(--main-color);
-    color:white;
-}
